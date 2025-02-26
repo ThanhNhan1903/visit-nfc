@@ -1,0 +1,107 @@
+{
+  "employees": [
+    {
+      "id": "laHongVan",
+      "name": "La Hong Van - Anny",
+      "position": "Deputy General Director",
+      "avatar": "/avatars/test.jpg",
+      "contacts": {
+        "email": "anny@vnftgroup.com",
+        "phones": {
+          "vn": "+84123456789",
+          "us": "+1234567890",
+          "cn": "+8612345678"
+        },
+        "linkedin": "https://linkedin.com/in/johndoe",
+        "whatsapp": "+84123456789",
+        "zalo": "+84123456789",
+        "wechat": "johndoe_wechat",
+        "skype": "john.doe.skype"
+      },
+      "department": "Engineering"
+    },
+    
+      {
+          "id": "jane-smith",
+          "name": "Jane Smith",
+          "position": "Product Manager",
+          "avatar": "/avatars/test2.jpg",
+          "contacts": {
+              "email": "jane.smith@company.com",
+              "phones": {
+                  "vn": "+84987654321",
+                  "us": "+1987654321",
+                  "sg": "+6598765432"
+              },
+              "linkedin": "https://linkedin.com/in/janesmith",
+              "whatsapp": "+84987654321",
+              "zalo": "+84987654321",
+              "wechat": "janesmith_wechat",
+              "skype": "jane.smith.skype"
+          },
+          "department": "Product"
+      },
+      {
+          "id": "john-doe",
+          "name": "John Doe",
+          "position": "Software Engineer",
+          "avatar": "/avatars/test2.jpg",
+          "contacts": {
+              "email": "john.doe@company.com",
+              "phones": {
+                  "vn": "+84912345678",
+                  "us": "+1912345678",
+                  "sg": "+6591234567"
+              },
+              "linkedin": "https://linkedin.com/in/johndoe",
+              "whatsapp": "+84912345678",
+              "zalo": "+84912345678",
+              "wechat": "johndoe_wechat",
+              "skype": "john.doe.skype"
+          },
+          "department": "Engineering"
+      },
+      {
+          "id": "alice-nguyen",
+          "name": "Alice Nguyen",
+          "position": "UX Designer",
+          "avatar": "/avatars/test2.jpg",
+          "contacts": {
+              "email": "alice.nguyen@company.com",
+              "phones": {
+                  "vn": "+84876543210",
+                  "us": "+1987654320",
+                  "sg": "+6587654321"
+              },
+              "linkedin": "https://linkedin.com/in/alicenguyen",
+              "whatsapp": "+84876543210",
+              "zalo": "+84876543210",
+              "wechat": "alicenguyen_wechat",
+              "skype": "alice.nguyen.skype"
+          },
+          "department": "Design"
+      },
+      {
+          "id": "michael-lee",
+          "name": "Michael Lee",
+          "position": "Data Analyst",
+          "avatar": "/avatars/test2.jpg",
+          "contacts": {
+              "email": "michael.lee@company.com",
+              "phones": {
+                  "vn": "+84765432109",
+                  "us": "+1976543210",
+                  "sg": "+6576543210"
+              },
+              "linkedin": "https://linkedin.com/in/michaellee",
+              "whatsapp": "+84765432109",
+              "zalo": "+84765432109",
+              "wechat": "michaellee_wechat",
+              "skype": "michael.lee.skype"
+          },
+          "department": "Data"
+      }
+  
+  
+  ]
+}

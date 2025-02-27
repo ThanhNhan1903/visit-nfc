@@ -1,22 +1,3 @@
 ---
-import Layout from '../layouts/Layout.astro';
-import EmployeeCard from '../components/EmployeeCard.astro';
-import employeesData from '../data/employees.json';
-
-const { employees } = employeesData;
----
-
-<Layout title="Employee Directory">
-  <h1 class="text-3xl font-bold text-center mb-8">Our Team</h1>
-  
-  <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
-    {employees.map((employee) => (
-      <EmployeeCard
-        id={employee.id}
-        name={employee.name}
-        position={employee.position}
-        avatar={employee.avatar}
-      />
-    ))}
-  </div>
-</Layout> 
+return Astro.redirect('/employee/');
+--- 
